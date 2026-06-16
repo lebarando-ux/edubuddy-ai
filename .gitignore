@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+
+# Secrets
+.streamlit/secrets.toml
+.env
+
+# Python cache
+__pycache__/
+*.pyc
